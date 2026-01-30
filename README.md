@@ -24,8 +24,8 @@ A comprehensive command-line tool for converting between various image formats i
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/arnavdhir/File-Converter.git
-cd File-Converter
+git clone https://github.com/arnavdhir/IMG-Converter.git
+cd IMG-Converter
 ```
 
 ### Installing Dependencies
