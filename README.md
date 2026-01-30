@@ -21,6 +21,13 @@ A comprehensive command-line tool for converting between various image formats i
 - Python 3.7 or higher
 - pip package manager
 
+### Cloning the Repository
+
+```bash
+git clone https://github.com/arnavdhir/File-Converter.git
+cd File-Converter
+```
+
 ### Installing Dependencies
 
 ```bash
@@ -191,7 +198,7 @@ Make sure the input and output formats are supported by checking the table above
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
